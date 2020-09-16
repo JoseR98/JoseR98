@@ -6,7 +6,7 @@
 
 <p align="center"> 🔭 Student at Holberton School</p>
 
-<p align="center">🌱 Currently learning Python, Javascript, Flask, API</p>
+<p align="center">🌱 Currently learning Python, Javascript, Flask, and Rest API design</p>
 
 
 ### Blogs posts
