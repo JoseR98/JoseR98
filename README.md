@@ -6,7 +6,7 @@
 
 <p align="center"> 🔭 Student at Holberton School</p>
 
-<p align="center">🌱 Industrial Engineer Student at Pontificia Universidad Javeriana Cali</p>
+<p align="center">🔭 Industrial Engineer Student at Pontificia Universidad Javeriana Cali</p>
 
 
 ### Blogs posts
