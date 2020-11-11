@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jose Alonso Restrepo Vidal</h1>
-<p align="center"><img src="https://images.unsplash.com/photo-1600368502250-105693c33244?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"></p>
+<p align="center"><img src="https://images.unsplash.com/photo-1600368502250-105693c33244?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60" width="300" height="200"></p>
 <h3 align="center">A curious software developer, passionate about technology and nature.</h3>
 
 
