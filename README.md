@@ -28,7 +28,7 @@
 
 <p align="right">
 <a href="https://twitter.com/@josealonsorv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@josealonsorv" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/joserestrepo98/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="joserestrepo98" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/jose98/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="joserestrepo98" height="30" width="30" /></a>
 <a href="https://medium.com/@jrestrepovidal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@jrestrepovidal" height="30" width="30" /></a>
 </p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=joser98" alt="joser98" /> </p>
